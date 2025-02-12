@@ -1,4 +1,4 @@
-//sum of two integers
+//student grade
 //Danson Njenga Wambui
 //ADM:CT101/G/20010/23
 
